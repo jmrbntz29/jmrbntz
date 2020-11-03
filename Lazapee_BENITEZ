@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="file:///C:/Users/elsie%20nazal/Downloads/lazapee-logo.png" width="150" height="54">
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+</style>
+</head>
+<body>
+
+<ul>
+<nav>
+  <ul>
+   
+   <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">______________</a>
+    <div class="dropdown-content">
+      <a href="#">Healh & beauties</a>
+      <a href="#">Fashion</a>
+      <a href="#">Home & Living</a>  <a href="#"> No search</a><li class="dropdown"><li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Search</a>
+    <div class="dropdown-content">
+      <a href="#"></a>
+      <a href="#"></a>
+      <a href="#"></a> <li class="dropdown">
+   <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Home</a>
+    <div class="dropdown-content">
+      <a href="#">log in</a>
+      <a href="#">sign up</a>
+      <a href="#">exit</a> <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Account</a>
+    <div class="dropdown-content">
+      <a href="#"></a>
+      <a href="#">manage account</a>
+      <a href="#">edit page</a>
+     <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Cart</a>
+    <div class="dropdown-content">
+      <a href="#">add to cart</a>
+      <a href="#">Flah deals</a>
+      <a href="#">Sales</a>
+     <li><a href="#">Health & beauty</a></li> 
+ <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Electronic devices</a>
+    <div class="dropdown-content">
+      <a href="#">phone</a>
+      <a href="#">heaphone</a>
+      <a href="#">laptop</a>
+     <li><a href="#">Health & beauty</a></li>   <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Health & beauties</a>
+    <div class="dropdown-content">
+      <a href="#">sleping pills</a>
+      <a href="#">orange-pills</a>
+      <a href="#">beauty-products</a>
+      <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Babies & Toys</a>
+    <div class="dropdown-content">
+      <a href="#">crib</a>
+      <a href="#">baby-cars</a>
+      <a href="#">baby - blocks</a>
+ <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Groceries & Pets</a>
+    <div class="dropdown-content">
+      <a href="#">fruit-package</a>
+      <a href="#">strawberry</a>
+      <a href="#">vegetables-package</a>
+    <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Home & Living</a>
+    <div class="dropdown-content">
+      <a href="#">indoor plant</a>
+      <a href="#">lamp</a>
+      <a href="#">well- package</a>
+   <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Fashion</a>
+    <div class="dropdown-content">
+      <a href="#">black shirt</a>
+      <a href="#">cat shirt</a>
+      <a href="#">green shirt</a>
+ </ul><li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">About</a>
+    <div class="dropdown-content">
+      <a href="#">Facebook</a>
+      <a href="#">Twitter</a>
+      <a href="#">Instagram</a> <li class="dropdown">
+
+  
+
+
+
+</body>
+</html><!DOCTYPE html>
+<html>
+<body>
+
+<h2>Cart</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Order # 
+</th>
+    <th>Place on </th> 
+    <th>Items
+
+</th><th>Quantity
+</th><th>Total
+</th>
+  </tr>
+  <tr>
+    <td>320819449488519</td>
+    <td>18/09/2020</td>
+    <td>Headphone</td>    <td>2</td>    <td>1000</td> <td>edit delete</td>
+  </tr>
+  <tr>
+    <td>189267874530189</td>
+    <td>07/09/2020</td>
+    <td>Baby blocks</td>   <td>6</td>    <td>100</td><td>edit delete</td>
+  </tr>
+  <tr>
+    <td>836749810938219</td>
+    <td>05/09/2020</td>
+    <td>Cat shirt</td>   <td>7</td>    <td>200</td>
+  </tr>
+  <tr>
+  <td>Shipping <td></td></td>  <td></td> <td></td> <td>100</td></tr>  <tr>
+     <td>Grand Total</td><td> <td></td></td>   <td></td> <td>13000</td></tr>
+</table>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Manage Account</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Name</th>
+    <th>Billing address</th> 
+    <th>Shipping address</th>
+  </tr>
+  <tr>
+    <td>Jomar Benitez</td>
+    
+    <td>San Fernado, Pampanga</td>
+    
+    <td>Zone 4, San Miguel, San Simon, Pampanga</td>
+  </tr>
+  
+</table>
+
+</body>
+</html>
+
+</body>
+</html>
+
+<p><!DOCTYPE html>
+<html>
+<body>
+
+<h2>Manage Account</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Name</th>
+    <th>Billing address</th> 
+    <th>Shipping address</th>
+  </tr>
+  <tr>
+    <td>Jomar Benitez</td>
+    
+    <td>San Fernado, Pampanga</td>
+    
+    <td>Zone 4, San Miguel, San Simon, Pampanga</td>
+  </tr>
+  
+</table>
+
+</body>
+</html><!DOCTYPE html>
+<html>
+<body>
+
+<h2>Edit Account</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Name</th>
+    <th>Billing Address</th> 
+    <th>Shipping address</th><th>Old Password</th><th>New Password<th>Confirm Password</th><th></th><th></th>
+  </tr>
+  <tr>
+    <td>Jomar Benitez</td>
+    <td>Zone 4, San Miguel, San Simon, Pampanga</td>
+    <td>San Fernando, Pampanga</td> <td>*******</td> <td>*****</td> <td>*****</td>
+  </tr>
+    <tr><td><strong>Save</strong></td>
+   </tr>
+</table>
+
+</body>
+</html>
+
+
+<p> <strong>Electronic Devices</strong>
+</p>
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="file:///C:/Users/elsie%20nazal/Downloads/laptop%20-%20Copy%20(2).jpg" width="150" height="225"><img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="file:///C:/Users/elsie%20nazal/Downloads/phone.jpg" width="150" height="225"><img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="file:///C:/Users/elsie%20nazal/Downloads/headphone.jpg" width="150" height="99">
+<p> <strong>Health & beauty</strong></p><img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="file:///C:/Users/elsie%20nazal/Downloads/orange-pills.jpg" width="150" height="100"><img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="file:///C:/Users/elsie%20nazal/Downloads/beauty-products.jpg" width="150" height="100">
+
+<p> <strong> Babies & Toys</strong></p>
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="file:///C:/Users/elsie%20nazal/Downloads/crib.jpg" width="150" height="100"><img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="file:///C:/Users/elsie%20nazal/Downloads/baby-cars.jpg" width="150" height="100"><img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="file:///C:/Users/elsie%20nazal/Downloads/baby-blocks.jpg" width="150" height="225">
+<p> <strong> Groceries & Pets</strong></p>
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="file:///C:/Users/elsie%20nazal/Downloads/vegetable-package.jpg" width="150" height="225">
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="file:///C:/Users/elsie%20nazal/Downloads/strawberry.jpg" width="150" height="100"><img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="file:///C:/Users/elsie%20nazal/Downloads/fruits-package.jpg" width="150" height="112">
+<p> <strong>Home & Living</strong></p>
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="file:///C:/Users/elsie%20nazal/Downloads/indoor-plant.jpg" width="150" height="199"><img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="file:///C:/Users/elsie%20nazal/Downloads/lamp.jpg" width="150" height="225">
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="file:///C:/Users/elsie%20nazal/Downloads/wall-package.jpg" width="150" height="100">
+<p> <strong> Fashion</strong></p><img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="file:///C:/Users/elsie%20nazal/Downloads/green-shirt.jpg" width="150" height="100">
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="file:///C:/Users/elsie%20nazal/Downloads/cat-shirt.jpg" width="150" height="187"><img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="file:///C:/Users/elsie%20nazal/Downloads/black-shirt.jpg" width="150" height="225">
+<p> <strong></strong></p>
+
+<p> <strong>Flash sales</strong>
+</p>
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="file:///C:/Users/elsie%20nazal/Downloads/cat-shirt.jpg" width="150" height="187">
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="file:///C:/Users/elsie%20nazal/Downloads/crib.jpg" width="150" height="100"><img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" 
+src="file:///C:/Users/elsie%20nazal/Downloads/laptop%20-%20Copy.jpg" width="150" height="225">
+
+
+<p>Follow us</p>
+<img src= "www.facebook.com">
+<img src= "www.instagram.com">
+<img src= "www.youtube.com">
+<img src= "www.twitter.com">
+
+<p>Contact us</p>
+<p>09000006736</p>
+<p>07-9887</p>
+<p>lazapeeshop@gamil.com</p>
+
+<p>@Copyrights 2020</p>
+
+
