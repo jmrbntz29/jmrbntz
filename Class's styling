@@ -1,1 +1,23 @@
- <!DOCTYPE html><html><head><style>body {font-family:  Helvetica,sans-serif;}h1 {color:#375e97;}h1 {font-family: Georgia, sans-seri; f font-size: 32px;}h1 {border-bottom: 5px dotted }h2 {  text-indent: 100px;}h2{font-size :15px} h2 { color: #999999;}h2{ font-weight: bold;  h3{font-style: italic ; font-size: 24px;} } h4 {border-style : solid; background-color: #eeeeee; border-color : purple ;} a :link { color: blue;} a:visited{  color: blue ;}a:hover {  text-decoration - none;}    </style></head><body><h1>Jomar A. Benitez</h1><h2>Senior software engineering</h2><p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecant cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumSed ut perpiciatis unde omnnalus error sit voluptatem accusantium doloremque laudantuim, totam rem aperiam, eaque ipsa quae ad illo inventore verquasi et quasi architecto beatae vitae dicta sunt explicabo.</p2><h3><em>Contact information</em></h3><h4><p3> <ul><li> Email:</p3><p3><a href="default.asp" target="_blank">jomar.benitez@gmail.com </li></p3></a><li><p3> Web </p3>: <p3><a href="default.asp" target="_blank"> http://jomarbenitez.com </a></li><p/3><p4><li> Tel: 123 45678 </ul></li></p4></h4></body></html>
+ <!DOCTYPE html>
+<html><head><style>
+body {font-family:  Helvetica,sans-serif;}
+h1 {color:#375e97;}
+h1 {font-family: Georgia, sans-serif ; font-size: 32px;}
+h1 {border-bottom: 5px dotted }
+h2 {  text-indent: 100px;}
+h2{font-size :15px} 
+h2 { color: #999999;}
+h2{ font-weight: bold;} 
+ h3{font-style: italic ; font-size: 24px;}
+ h4 {border-style : solid; background-color: #eeeeee; border-color : purple ;} 
+a :link { color: blue;} a:visited{  color: blue ;}a:hover {  text-decoration - none;}   
+ </style></head><body>
+
+<h1>Jomar A. Benitez</h1>
+<h2>Senior software engineering</h2>
+<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecant cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumSed ut perpiciatis unde omnnalus error sit voluptatem accusantium doloremque laudantuim, totam rem aperiam, eaque ipsa quae ad illo inventore verquasi et quasi architecto beatae vitae dicta sunt explicabo.</p2>
+<h3><em>Contact information</em></h3>
+<h4><p3> <ul><li> Email:</p3><p3><a href="default.asp" target="_blank">jomar.benitez@gmail.com </li></p3></a>
+<li><p3> Web </p3>: <p3><a href="default.asp" target="_blank"> http://jomarbenitez.com </a></li><p/3>
+<p4><li> Tel: 123 45678 </ul></li></p4></h4>
+</body></html>
